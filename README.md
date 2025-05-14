@@ -22,7 +22,7 @@
 * Удалить выделенный текстовый фрагмент
 * Выделить все содержимое документа
 
- ![image](https://github.com/user-attachments/assets/cc64d197-bbac-499b-b583-46ef7d438472)
+ ![image](https://github.com/user-attachments/assets/cc64d197-bbac-499b-b583-46ef7d438472)  
 
 Рисунок А.2 – Пункт "Правка" меню  
 
@@ -36,7 +36,7 @@
 * Тестовый пример
 * Список литературы
 * Исходный код программы
- ![image](https://github.com/user-attachments/assets/1ca0af85-58f8-4e5f-8b20-fa4189c67c82)
+ ![image](https://github.com/user-attachments/assets/1ca0af85-58f8-4e5f-8b20-fa4189c67c82)  
 
 Рисунок А.3 – Пункт "Текст" меню  
 
@@ -61,6 +61,6 @@
 * Вырезать выделенный текстовый фрагмент 
 * Вставить текстовый фрагмент  
 
- ![image](https://github.com/user-attachments/assets/9b0cb592-956a-4049-a523-c468c801289b)
+ ![image](https://github.com/user-attachments/assets/9b0cb592-956a-4049-a523-c468c801289b)  
 
 Рисунок А.5 – Панель инструментов

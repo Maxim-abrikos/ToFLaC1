@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2ip03PrYTQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azza1\\source\\repos\\Compilator\\Compilator\\Compilator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azza1\\.nuget\\packages\\avalonedit\\6.3.0.90\\avalonedit.6.3.0.90.nupkg.sha512",
+    "C:\\Users\\azza1\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\azza1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\azza1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\azza1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\Compilator.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\D3DCompiler_47_cor3.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\PenImc_cor3.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\PresentationNative_cor3.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\vcruntime140_cor3.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\wpfgfx_cor3.dll
+C:\Users\azza1\OneDrive\Рабочий стол\Новая папка (5)\Compilator.exe
